@@ -15,4 +15,4 @@ for i in range(5):
     
 print("vainilla:",vainilla)
 print("chocolate:",chocolate)
-print("fresa:",fresa)
+print("fresas:",fresa)
